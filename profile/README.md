@@ -3,5 +3,5 @@ Contract-First IDP is a developer platform reference architecture and a correspo
 # Where to Start
 
 1. You'll need full administrator access to an OpenShift cluster and a GitHub account
-2. Follow the instructions in the [`Installation Guide`](https://github.com/contract-first-idp/platform-components/docs/installation.md) readme to install the reference platform
+2. Follow the instructions in the [`Installation Guide`](https://github.com/contract-first-idp/platform-components/blob/main/docs/installation.md) readme to install the reference platform
 3. Explore the [`Software Templates`](https://github.com/contract-first-idp/software-templates) and start scaffolding applications
